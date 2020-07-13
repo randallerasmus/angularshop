@@ -1,5 +1,7 @@
 ## THIS IS A SIMPLE ECOMMERCE SITE ---> TESTING PURPOSES
 
+![alt text](/src/assets/img/EcommerceShop.jpg)
+
 HERE I WILL ONLY BUILD THE FRONT END APPLICATION IN ANGULAR 
 
 This will only be the front end part of the application but ultimately the application will consist of a front end and a rest api to connect with the backend that is build in 
