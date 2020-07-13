@@ -1,0 +1,9 @@
+Development Process
+
+1.  Create angular project
+2.  Create Angular component for products
+3.  Develop a typescript class for products
+4.  Creata Angular service to a call via Rest API
+5.  Update Angular component to subscribe to data from Angular service
+6.  Display the data in Html Page
+7.  Add cross origin support to the Spring boot App
