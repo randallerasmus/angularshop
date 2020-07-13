@@ -1,4 +1,4 @@
-# THIS IS A SIMPLE ECOMMERCE SITE ---> TESTING PURPOSES
+## THIS IS A SIMPLE ECOMMERCE SITE ---> TESTING PURPOSES
 
 HERE I WILL ONLY BUILD THE FRONT END APPLICATION IN ANGULAR 
 
@@ -16,7 +16,7 @@ This is what the application must do
 
 I will import some wireframes for the application
 
-Homepage ( Basic Layout of our Homepage)
+### Homepage ( Basic Layout of our Homepage)
 - which will consist of a logo
 - a search bar 
 - cart items status basket ( Just to indicate to the user what is in his cart)
@@ -24,7 +24,7 @@ Homepage ( Basic Layout of our Homepage)
 - Main list items where all of the main items will be listed
 - also with pagination 
 
-Products Page
+### Products Page
 - which will consist of a logo
 - a search bar 
 - cart items status basket ( Just to indicate to the user what is in his cart)
@@ -34,7 +34,7 @@ Products Page
   - product title , Price etc ( product information)
   - with a brief description of the product
 
-Shopping Cart details Page
+### Shopping Cart details Page
   - which will consist of a logo
 - a search bar 
 - cart items status basket ( Just to indicate to the user what is in his cart)
@@ -62,7 +62,7 @@ Shopping Cart details Page
   
   These steps above is how the front end will look
   
-  #RELEASE PLAN FOR THE PRODUCT
+# RELEASE PLAN FOR THE PRODUCT
   -   This will happen in multiple versions as you wish but in this case will be dummy release plan due to time constraints
   
   Release 1.0
