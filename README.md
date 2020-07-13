@@ -4,7 +4,7 @@
 
 ---
 
-##HERE I WILL ONLY BUILD THE FRONT END APPLICATION IN ANGULAR 
+## HERE I WILL ONLY BUILD THE FRONT END APPLICATION IN ANGULAR 
 
 This will only be the front end part of the application but ultimately the application will consist of a front end and a rest api to connect with the backend that is build in 
 spring with a database to do the crud operations as required by the user.
