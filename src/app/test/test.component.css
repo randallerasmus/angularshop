@@ -17,3 +17,7 @@ table {
   flex: 1;
 }
 
+
+.comment-filter-checkboxes {
+  padding: 2% 0px 1% 0px;
+}

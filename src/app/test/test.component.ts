@@ -49,12 +49,13 @@ export class TestComponent implements OnInit, AfterViewInit {
   dataSource = new MatTableDataSource<PeriodicElement>(ELEMENT_DATA);
 
   @ViewChild(MatPaginator) paginator: MatPaginator;
-  setSystemComment: any;
+  public setSystemComment = true ;
   setUserComment: any;
 
 
 
   ngOnInit(): void {
+    console.log('value', this.setSystemComment);
   }
 
   ngAfterViewInit() {
@@ -63,6 +64,10 @@ export class TestComponent implements OnInit, AfterViewInit {
 
   get bannerMessage() {
     return this._bannerMessage;
+  }
+
+  systemComment() {
+    console.log('value', this.setSystemComment);
   }
 }
 
